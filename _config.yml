@@ -2,15 +2,15 @@
 title: Tales from the Foundry
 subtitle: justinbaur
 email: justinbaur@outlook.com
-description: Thoughts and adventures from corporate development and beyond
+description: Thoughts and adventures from corporate development
 baseurl: "/tales"
 url:
-author:
+author: Justin Baur
 street_address:
 city:
 state: Wisconsin
 zip_code:
-country:
+country: United States
 phone:
 
 # homepage tiles
